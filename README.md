@@ -4,7 +4,7 @@ Mirror of the matlab gui layout toolbox so that it can be added to workflows / d
 
 ## Version
 
-The code in this repo was annotated to be v2.5.3
+The code in this repo was annotated to be v2.3.5
 
 ## License
 
